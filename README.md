@@ -1,1 +1,2 @@
-# CSS-practic-2
+# CSS-Practice
+CSS-Practice basic
